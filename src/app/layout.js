@@ -9,25 +9,8 @@ export const metadata = {
   description:
     "Residential and commercial transformations tailored to the end user. We Build for the Buyer, not the Market.",
   icons: {
-    icon: [
-      {
-        url: "/images/logo/bespoke-projects-logo.png",
-        sizes: "32x32",
-        type: "image/png",
-      },
-      {
-        url: "/images/logo/bespoke-projects-logo.png",
-        sizes: "16x16",
-        type: "image/png",
-      },
-    ],
-    apple: [
-      {
-        url: "/images/logo/bespoke-projects-logo.png",
-        sizes: "180x180",
-        type: "image/png",
-      },
-    ],
+    icon: "/favicon.ico",
+    apple: "/favicon.ico",
   },
 };
 
