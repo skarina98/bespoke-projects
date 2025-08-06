@@ -46,7 +46,7 @@ export default function RootLayout({ children }) {
               </div>
               <div>
                 <h4 className="text-sm font-semibold mb-4">Contact</h4>
-                <p className="text-gray-300">info@bespoke-projects.com</p>
+                <p className="text-gray-300">info@bespoke-projects.uk</p>
               </div>
               <div>
                 <h4 className="text-sm font-semibold mb-4">Services</h4>
