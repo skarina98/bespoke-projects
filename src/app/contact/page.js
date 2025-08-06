@@ -169,7 +169,7 @@ export default function Contact() {
                       href="mailto:info@bespoke-projects.com"
                       className="text-gray-600 hover:text-gray-900 transition-colors duration-300"
                     >
-                      info@bespoke-projects.uk
+                      info@bespoke-projects.co.uk
                     </a>
                   </div>
 
